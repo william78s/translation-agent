@@ -17,6 +17,7 @@ MAX_TOKENS_PER_CHUNK = (
 )
 # discrete chunks to translate one chunk at a time
 
+hello = "its me"
 def get_completion(
     prompt: str,
     system_message: str = "You are a helpful assistant.",
