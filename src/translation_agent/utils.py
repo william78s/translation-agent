@@ -236,6 +236,7 @@ Output only the new translation and nothing else."""
 
     return translation_2
 
+ksjdnfksjdnf = ''
 
 def one_chunk_translate_text(
     source_lang: str, target_lang: str, source_text: str, country: str = ""
